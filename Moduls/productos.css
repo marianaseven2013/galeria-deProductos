@@ -1,0 +1,35 @@
+
+
+.producto {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 20rem;
+    margin: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #ffffff;
+    transition: transform 0.3s ease;
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 3px 3px 3px rgb(187, 187, 187);
+    cursor: pointer;
+  
+  }
+  
+  .producto:hover {
+    transform: scale(1.02);
+    cursor: context-menu;
+ 
+ }
+  
+  .producto img {
+    margin-top: 10px;
+    width: 50%;
+    height: 9rem;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    box-shadow: 8px 8px 10px 5px rgb(184, 184, 184);
+
+  }
+  
+ 
+  
